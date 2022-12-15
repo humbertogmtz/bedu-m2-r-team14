@@ -12,14 +12,11 @@
 
 ## :bookmark_tabs: Postworks
  
- - [`Postwork 1`](Postwork-01/) 
- - [`Postwork 2`](Postwork-02/) 
- - [`Postwork 3`](Postwork-03/)
- - [`Postwork 4`](Postwork-04/) 
- - [`Postwork 5`](Postwork-05/) 
- - [`Postwork 6`](Postwork-06/)
- - [`Postwork 7`](Postwork-07/) 
- - [`Postwork 8`](Postwork-08/)
-
-
- 
+ - [`Postwork 1`](https://github.com/humbertogmtz/bedu-m2-r-team14/tree/main/Postwork-01)
+ - [`Postwork 2`](https://github.com/humbertogmtz/bedu-m2-r-team14/tree/main/Postwork-02)
+ - [`Postwork 3`](https://github.com/humbertogmtz/bedu-m2-r-team14/tree/main/Postwork-03)
+ - [`Postwork 4`](https://github.com/humbertogmtz/bedu-m2-r-team14/tree/main/Postwork-04)
+ - [`Postwork 5`](https://github.com/humbertogmtz/bedu-m2-r-team14/tree/main/Postwork-05)
+ - [`Postwork 6`](Postwork-06)
+ - [`Postwork 7`](Postwork-07)
+ - [`Postwork 8`](Postwork-08/Readme.md)
