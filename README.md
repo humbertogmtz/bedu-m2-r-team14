@@ -18,5 +18,5 @@
  - [`Postwork 4`](https://github.com/humbertogmtz/bedu-m2-r-team14/tree/main/Postwork-04)
  - [`Postwork 5`](https://github.com/humbertogmtz/bedu-m2-r-team14/tree/main/Postwork-05)
  - [`Postwork 6`](Postwork-06)
- - [`Postwork 7`](Postwork-07)
- - [`Postwork 8`](Postwork-08/Readme.md)
+ - [`Postwork 7`](/Postwork-07)
+ - [`Postwork 8`](Postwork-08)
