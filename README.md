@@ -2,8 +2,8 @@
 
 ## :wave: Bienvenid@s
 
-El presente repositorio contiene los Postworks resueltos
-del curso **Programación y estadística con R Santander 2022**
+**¡Hola Mundo!**, **¡Hola equipo Bedu!**
+Agradecimientos y reconocimiento al equipo BEDU, por esta oportunidad que nos han brindado, la dedicación, el tiempo otorgado y sobre todo el conocimiento compartido el cual es de un valor incalculable; como fruto a las enseñanzas otorgadas, a continuación se muestran las actividades (postwork) elaboradas con base a las problemáticas observadas del curso **Programación y estadística con R Santander 2022**
 
 
 ## :jigsaw: Miembros del equipo
