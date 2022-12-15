@@ -5,7 +5,7 @@
  - Roberto Solís Robles (rsolis@uaz.edu.mx)
  - Humberto Guzmán Martínez (humberto.gmtz@outlook.com)
  - (vm.ramirezalba@ugto.mx)
- - (tocu13@hotmail.com)
+ - Ulises Osvaldo Tomás Canseco (tocu13@hotmail.com)
  - (marxilsg89@gmail.com)
  - (dnplfx@hotmail.com)
  
