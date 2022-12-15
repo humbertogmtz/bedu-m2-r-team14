@@ -1,18 +1,25 @@
 # Estadística con R - Equipo 14
 
+## :wave: Bienvenid@s
+
+El presente repositorio contiene los Postworks resueltos
+del curso **Programación y estadística con R Santander 2022**
+
+
 ## :jigsaw: Miembros del equipo
- - Cesar
+
+ - Cesar Pérez Apolinar (cesar.perez.apolinar@gmail.com)
  - Roberto Solís Robles (rsolis@uaz.edu.mx)
  - Humberto Guzmán Martínez (humberto.gmtz@outlook.com)
- - (vm.ramirezalba@ugto.mx)
+ - Victor Manuel Ramírez Alba (vm.ramirezalba@ugto.mx)
  - Ulises Osvaldo Tomás Canseco (tocu13@hotmail.com)
- - (marxilsg89@gmail.com)
- - (dnplfx@hotmail.com)
+ - Marxil Sánchez García (marxilsg89@gmail.com)
+ - Diana Palafox Monreal (dnplfx@hotmail.com)
  
 
 ## :bookmark_tabs: Postworks
  
- - [`Postwork 1`](Postwork-01/Eq14_S2_Postwork.R)
+ - [`Postwork 1`](Postwork-01/Eq14_S1_Postwork.R)
  - [`Postwork 2`](Postwork-02/Eq14_S2_Postwork.R)
  - [`Postwork 3`](Postwork-03/Eq14_S3_Postwork.R)
  - [`Postwork 4`](Postwork-04/Eq14_S4_Postwork.R)
